@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "19701cf7248b586b",
+        "id": "9bad8255b2cc3633",
         "type": "tabs",
         "children": [
           {
-            "id": "8cfbc22fdede7288",
+            "id": "0504006bd9ce9489",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Люди/Белов Сергей.md",
-                "mode": "source",
-                "source": false
+                "file": "Дерево.canvas",
+                "viewState": {
+                  "x": 304.7688571428557,
+                  "y": -102.24314285714269,
+                  "zoom": -1.1768521912257603
+                }
               },
-              "icon": "lucide-file",
-              "title": "Белов Сергей"
+              "icon": "lucide-layout-dashboard",
+              "title": "Дерево"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Люди/Белов Сергей.md",
+                "file": "Дерево.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Белов Сергей"
+              "title": "Backlinks for Дерево"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Люди/Белов Сергей.md",
+                "file": "Дерево.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Белов Сергей"
+              "title": "Outgoing links from Дерево"
             }
           },
           {
@@ -156,16 +159,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Люди/Белов Сергей.md",
+                "file": "Дерево.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Белов Сергей"
+              "title": "Outline of Дерево"
+            }
+          },
+          {
+            "id": "e621ed10f874e321",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,20 +193,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfbc22fdede7288",
+  "active": "9a2f0317553c34e8",
   "lastOpenFiles": [
+    "Люди/Белов Сергей.md",
     "Дерево.canvas",
+    "Люди/Шпадырев Вадим Александрович.md",
     "Дерево.md",
     "Люди/Валерия Вадимовна Шпадырева.md",
     "Люди/Маргарита Сергеевна Шпадырева.md",
     "Люди/Сергей Андреевич (Валерьевич) Шпадырев.md",
     "Люди/Дарья Олеговна Астафьева.md",
     "Люди/Джой (Принцесс) Альберт.md",
-    "Люди/Белов Сергей.md",
-    "Люди/Галина Сергеевна Курмакаева.md",
+    "Люди/Галина Сергеевна Курмакаева (Белова).md",
     "Люди/Шпадырев Пётр Андреевич.md",
     "Люди/Шпадырев Павел Ефимович.md",
     "Люди/Шпадырев Николай Андреевич.md",
@@ -208,8 +224,7 @@
     "Люди/Шпадырев Александр Сергеевич.md",
     "Люди/Шпадырева Галина Александровна.md",
     "Люди/Шпадырева (Польсова) Эмма Адольфовна (Иделевна).md",
-    "Люди/Шпадырева (Белова) Нина Сергеевна.md",
-    "Люди/Шпадырев Юрий Александрович.md",
+    "Люди/Нина Сергеевна Шпадырева (Белова).md",
     "Люди",
     "untitled folder"
   ]

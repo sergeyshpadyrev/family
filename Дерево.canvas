@@ -1,15 +1,24 @@
 {
 	"nodes":[
+		{"id":"5144e5bb19d51f31","x":1645,"y":-873,"width":400,"height":400,"type":"file","file":"Люди/Галина Сергеевна Курмакаева (Белова).md"},
 		{"id":"1d66b5eae291e0be","type":"file","file":"Люди/Сергей Андреевич (Валерьевич) Шпадырев.md","x":-150,"y":-40,"width":400,"height":252},
-		{"id":"d0d9ba9784532d5c","x":380,"y":-40,"width":400,"height":252,"type":"file","file":"Люди/Дарья Олеговна Астафьева.md"},
-		{"id":"799bc85bb340a10f","x":102,"y":380,"width":478,"height":168,"type":"file","file":"Люди/Маргарита Сергеевна Шпадырева.md"},
+		{"id":"d0d9ba9784532d5c","type":"file","file":"Люди/Дарья Олеговна Астафьева.md","x":380,"y":-40,"width":400,"height":252},
+		{"id":"799bc85bb340a10f","type":"file","file":"Люди/Маргарита Сергеевна Шпадырева.md","x":102,"y":380,"width":478,"height":168},
 		{"id":"061392127f427cb0","type":"file","file":"Люди/Валерий Владимирович Бережнюк.md","x":-480,"y":-400,"width":420,"height":240},
-		{"id":"3a47fad9b1a8d11a","type":"file","file":"Люди/Валерия Вадимовна Шпадырева.md","x":120,"y":-400,"width":420,"height":240}
+		{"id":"3a47fad9b1a8d11a","type":"file","file":"Люди/Валерия Вадимовна Шпадырева.md","x":120,"y":-400,"width":420,"height":240},
+		{"id":"223f4467a065ff1e","type":"file","file":"Люди/Нина Сергеевна Шпадырева (Белова).md","x":900,"y":-1009,"width":404,"height":296},
+		{"id":"afedf59270945173","type":"file","file":"Люди/Шпадырев Андрей Вадимович.md","x":780,"y":-400,"width":404,"height":240},
+		{"id":"998350533294b946","type":"file","file":"Люди/Шпадырев Вадим Александрович.md","x":120,"y":-979,"width":449,"height":237},
+		{"id":"728b03809d5573bb","x":1184,"y":-1400,"width":495,"height":234,"type":"file","file":"Люди/Белов Сергей.md"}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
 		{"id":"e0f1c189c0498083","fromNode":"061392127f427cb0","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Отец"},
 		{"id":"c7a2a3f972e27069","fromNode":"d0d9ba9784532d5c","fromSide":"bottom","toNode":"799bc85bb340a10f","toSide":"top","label":"Мать"},
-		{"id":"fed84176e8e26f93","fromNode":"1d66b5eae291e0be","fromSide":"bottom","toNode":"799bc85bb340a10f","toSide":"top","label":"Отец"}
+		{"id":"fed84176e8e26f93","fromNode":"1d66b5eae291e0be","fromSide":"bottom","toNode":"799bc85bb340a10f","toSide":"top","label":"Отец"},
+		{"id":"c0194132ef6eaeb4","fromNode":"998350533294b946","fromSide":"bottom","toNode":"3a47fad9b1a8d11a","toSide":"top","label":"Отец"},
+		{"id":"bdaec0d6e9a97ba9","fromNode":"223f4467a065ff1e","fromSide":"bottom","toNode":"3a47fad9b1a8d11a","toSide":"top","label":"Мать"},
+		{"id":"26011875a6408124","fromNode":"998350533294b946","fromSide":"bottom","toNode":"afedf59270945173","toSide":"top","label":"Отец"},
+		{"id":"9abe6e9502d2b07a","fromNode":"223f4467a065ff1e","fromSide":"bottom","toNode":"afedf59270945173","toSide":"top","label":"Мать"}
 	]
 }
