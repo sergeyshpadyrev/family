@@ -14,8 +14,11 @@
 		{"id":"2106936929ebb34d","type":"file","file":"Люди/Федотова Прасковья Михайловна.md","x":1845,"y":-1600,"width":400,"height":400},
 		{"id":"728b03809d5573bb","type":"file","file":"Люди/Белов Сергей.md","x":1184,"y":-1498,"width":495,"height":234},
 		{"id":"ff500a7fe4ce9252","type":"file","file":"Люди/Шпадырев Андрей ???.md","x":-480,"y":-2320,"width":400,"height":400},
-		{"id":"b3bebbeeffa648ab","type":"file","file":"Люди/Дмитрий Андреевич Шпадырев.md","x":-1120,"y":-1920,"width":400,"height":400},
-		{"id":"daa2db6ef326cf5a","type":"file","file":"Люди/Шпадырев Пётр Андреевич.md","x":-680,"y":-1555,"width":446,"height":542}
+		{"id":"daa2db6ef326cf5a","type":"file","file":"Люди/Шпадырев Пётр Андреевич.md","x":-680,"y":-1555,"width":446,"height":542},
+		{"id":"b3bebbeeffa648ab","type":"file","file":"Люди/Дмитрий Андреевич Шпадырев.md","x":-1680,"y":-1955,"width":400,"height":400},
+		{"id":"54b7f6f81b440291","type":"file","file":"Люди/Шпадырев Николай Андреевич.md","x":-1280,"y":-1464,"width":400,"height":400},
+		{"id":"8e7d809a2cb5fea7","x":-857,"y":-3200,"width":400,"height":400,"type":"file","file":"Люди/Шпадырев Ефим.md"},
+		{"id":"2c0e03df56738df6","x":-1062,"y":-2548,"width":400,"height":400,"type":"file","file":"Люди/Шпадырев Павел Ефимович.md"}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
@@ -34,6 +37,8 @@
 		{"id":"1c8662ef3652f475","fromNode":"2106936929ebb34d","fromSide":"bottom","toNode":"223f4467a065ff1e","toSide":"top"},
 		{"id":"7b71e39e53d7edaf","fromNode":"ff500a7fe4ce9252","fromSide":"bottom","toNode":"2d6c214b502eca13","toSide":"top"},
 		{"id":"f84e6ed4111c8a94","fromNode":"ff500a7fe4ce9252","fromSide":"bottom","toNode":"b3bebbeeffa648ab","toSide":"top"},
-		{"id":"d06ff150b2800fb2","fromNode":"ff500a7fe4ce9252","fromSide":"bottom","toNode":"daa2db6ef326cf5a","toSide":"top"}
+		{"id":"d06ff150b2800fb2","fromNode":"ff500a7fe4ce9252","fromSide":"bottom","toNode":"daa2db6ef326cf5a","toSide":"top"},
+		{"id":"059f8c585030d4f4","fromNode":"ff500a7fe4ce9252","fromSide":"bottom","toNode":"54b7f6f81b440291","toSide":"top"},
+		{"id":"aaaa2196d2027aed","fromNode":"8e7d809a2cb5fea7","fromSide":"bottom","toNode":"2c0e03df56738df6","toSide":"top"}
 	]
 }
