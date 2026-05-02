@@ -30,7 +30,9 @@
 		{"id":"8eb6350911da1edd","type":"file","file":"Люди/Иван Петрович Шпадырев.md","x":-2640,"y":-2720,"width":400,"height":440},
 		{"id":"f0fca43a047b6930","type":"file","file":"Люди/Гавриил Петрович Шпадырев.md","x":-3280,"y":-2720,"width":400,"height":400},
 		{"id":"d11ac2202ddeccd2","type":"file","file":"Люди/Михаил ??? Шпадырев.md","x":302,"y":-3480,"width":400,"height":400},
-		{"id":"eee291eff73e2c76","type":"file","file":"Люди/Алексей Степанович Шпадырев.md","x":-1760,"y":-2900,"width":400,"height":400}
+		{"id":"eee291eff73e2c76","type":"file","file":"Люди/Алексей Степанович Шпадырев.md","x":-1760,"y":-2900,"width":400,"height":400},
+		{"id":"5335ab4ed5ca264a","type":"file","file":"Люди/Иван Иванович Шпадырев.md","x":-4160,"y":-2720,"width":400,"height":400},
+		{"id":"834f7bde6d55985a","x":-1800,"y":-1413,"width":400,"height":400,"type":"file","file":"Люди/Михаил Андреевич Шпадырев.md"}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
@@ -59,6 +61,7 @@
 		{"id":"d5ea7af9264d2aa8","fromNode":"2d6c214b502eca13","fromSide":"bottom","toNode":"77e65470385d2a85","toSide":"top"},
 		{"id":"86131774fc2c2fcf","fromNode":"1124da0aa8d45347","fromSide":"bottom","toNode":"77e65470385d2a85","toSide":"top"},
 		{"id":"e029f533d6ac9c81","fromNode":"d11ac2202ddeccd2","fromSide":"bottom","toNode":"64925cdcefaced79","toSide":"top"},
-		{"id":"8a644680ee63e9fb","fromNode":"d11ac2202ddeccd2","fromSide":"bottom","toNode":"322ef3e07cc9c848","toSide":"top"}
+		{"id":"8a644680ee63e9fb","fromNode":"d11ac2202ddeccd2","fromSide":"bottom","toNode":"322ef3e07cc9c848","toSide":"top"},
+		{"id":"480f17e073ff8d09","fromNode":"ff500a7fe4ce9252","fromSide":"bottom","toNode":"834f7bde6d55985a","toSide":"top"}
 	]
 }
