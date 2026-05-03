@@ -39,7 +39,9 @@
 		{"id":"1de99be57d8fa64f","type":"file","file":"Люди/Мойша Гирш Лопайке.md","x":949,"y":-3120,"width":400,"height":400},
 		{"id":"311ccc31a056ab29","type":"file","file":"Люди/Гитель Лопайке (Гольдштейн).md","x":1588,"y":-3120,"width":400,"height":400},
 		{"id":"5608f82c9a29e7d4","type":"file","file":"Люди/Беньямин Лопайке.md","x":749,"y":-3920,"width":400,"height":400},
-		{"id":"5e851fad60c0a30d","x":1388,"y":-3840,"width":400,"height":400,"type":"file","file":"Люди/Липка Гольдштейн.md"}
+		{"id":"5e851fad60c0a30d","type":"file","file":"Люди/Липка Гольдштейн.md","x":1388,"y":-3840,"width":400,"height":400},
+		{"id":"f99edc5c0bf61069","x":401,"y":-2977,"width":400,"height":400,"type":"file","file":"Люди/Михель Гирш Польсов.md"},
+		{"id":"7c2b054484d2198d","x":1,"y":-3720,"width":400,"height":400,"type":"file","file":"Люди/Лейба Польсов.md"}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
@@ -78,6 +80,8 @@
 		{"id":"a8b678a713f7e629","fromNode":"1de99be57d8fa64f","fromSide":"bottom","toNode":"3740dedf656a33db","toSide":"top"},
 		{"id":"64a939568e9e1932","fromNode":"311ccc31a056ab29","fromSide":"bottom","toNode":"3740dedf656a33db","toSide":"top"},
 		{"id":"42660bbe80f6f8eb","fromNode":"5608f82c9a29e7d4","fromSide":"bottom","toNode":"1de99be57d8fa64f","toSide":"top"},
-		{"id":"ae88097071839698","fromNode":"5e851fad60c0a30d","fromSide":"bottom","toNode":"311ccc31a056ab29","toSide":"top","label":"Отец"}
+		{"id":"ae88097071839698","fromNode":"5e851fad60c0a30d","fromSide":"bottom","toNode":"311ccc31a056ab29","toSide":"top","label":"Отец"},
+		{"id":"a5a6fa2f5221cb76","fromNode":"f99edc5c0bf61069","fromSide":"bottom","toNode":"bfdcef8e1e249ae6","toSide":"top"},
+		{"id":"152cba2ceac7e107","fromNode":"7c2b054484d2198d","fromSide":"bottom","toNode":"f99edc5c0bf61069","toSide":"top"}
 	]
 }
