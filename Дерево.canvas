@@ -10,7 +10,7 @@
 		{"id":"1124da0aa8d45347","type":"file","file":"Люди/Эмма Адольфовна (Иделевна) Шпадырева (Польсова).md","x":516,"y":-1515,"width":466,"height":231},
 		{"id":"2d6c214b502eca13","type":"file","file":"Люди/Александр Андреевич Шпадырев.md","x":-106,"y":-1515,"width":415,"height":251},
 		{"id":"2106936929ebb34d","type":"file","file":"Люди/Прасковья Михайловна Федотова.md","x":1845,"y":-1600,"width":400,"height":400},
-		{"id":"728b03809d5573bb","type":"file","file":"Люди/Белов Сергей.md","x":1184,"y":-1498,"width":495,"height":234},
+		{"id":"728b03809d5573bb","type":"file","file":"Люди/Сергей Белов.md","x":1184,"y":-1498,"width":495,"height":234},
 		{"id":"ff500a7fe4ce9252","type":"file","file":"Люди/Андрей Игнатьевич Шпадырев.md","x":-480,"y":-2320,"width":400,"height":400},
 		{"id":"daa2db6ef326cf5a","type":"file","file":"Люди/Пётр Андреевич Шпадырев.md","x":-680,"y":-1555,"width":446,"height":542},
 		{"id":"54b7f6f81b440291","type":"file","file":"Люди/Николай Андреевич Шпадырев.md","x":-1280,"y":-1464,"width":400,"height":400},
@@ -44,7 +44,8 @@
 		{"id":"7c2b054484d2198d","type":"file","file":"Люди/Лейба Польсов.md","x":1,"y":-3720,"width":400,"height":400},
 		{"id":"26c1390f4ebb0ae0","type":"file","file":"Люди/Джой (Принцесс) Альберт.md","x":-880,"y":-40,"width":480,"height":252},
 		{"id":"b3f4ce1e9c87f351","type":"file","file":"Люди/Александр Сергеевич Шпадырев.md","x":-480,"y":380,"width":420,"height":168},
-		{"id":"01d7494a4a2557a6","x":2200,"y":-2320,"width":400,"height":400,"type":"file","file":"Люди/Ксения Михайловна Федотова.md"}
+		{"id":"01d7494a4a2557a6","type":"file","file":"Люди/Ксения Михайловна Федотова.md","x":2200,"y":-2320,"width":400,"height":400},
+		{"id":"17f6ed9d5b488749","x":-680,"y":-2977,"width":400,"height":400,"type":"file","file":"Люди/Игнатий Шпадырев.md"}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
@@ -88,6 +89,7 @@
 		{"id":"152cba2ceac7e107","fromNode":"7c2b054484d2198d","fromSide":"bottom","toNode":"f99edc5c0bf61069","toSide":"top"},
 		{"id":"a00d025018506e96","fromNode":"1d66b5eae291e0be","fromSide":"bottom","toNode":"b3f4ce1e9c87f351","toSide":"top"},
 		{"id":"987e288d4675488b","fromNode":"26c1390f4ebb0ae0","fromSide":"bottom","toNode":"b3f4ce1e9c87f351","toSide":"top"},
-		{"id":"18eeacf0d99a44ae","fromNode":"01d7494a4a2557a6","fromSide":"bottom","toNode":"2106936929ebb34d","toSide":"top"}
+		{"id":"18eeacf0d99a44ae","fromNode":"01d7494a4a2557a6","fromSide":"bottom","toNode":"2106936929ebb34d","toSide":"top"},
+		{"id":"9ef4b08980f6bde9","fromNode":"17f6ed9d5b488749","fromSide":"bottom","toNode":"ff500a7fe4ce9252","toSide":"top"}
 	]
 }
