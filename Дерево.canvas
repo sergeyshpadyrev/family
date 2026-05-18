@@ -40,16 +40,17 @@
 		{"id":"9f052c11a0c9d86c","type":"file","file":"Люди/Моисей Пальсов.md","x":-857,"y":-2840,"width":400,"height":400},
 		{"id":"2935a08381120744","type":"file","file":"Люди/Сафрон Игнатьевич Шпадырев.md","x":-3680,"y":-2640,"width":400,"height":400},
 		{"id":"ff500a7fe4ce9252","type":"file","file":"Люди/Андрей Игнатьевич Шпадырев.md","x":-1440,"y":-2440,"width":400,"height":400},
-		{"id":"d65358dcd4551b97","x":-3880,"y":-1953,"width":400,"height":400,"type":"file","file":"Люди/Прокофий Сафронович Шпадырев.md"},
-		{"id":"4a0a9e5ad2e85ee0","x":-3160,"y":-1953,"width":400,"height":400,"type":"file","file":"Люди/Ефим Сафронович Шпадырев.md"},
-		{"id":"93f13c881506f490","x":-1440,"y":-2960,"width":400,"height":400,"type":"file","file":"Люди/Игнат Павлович Шпадырев.md"},
+		{"id":"d65358dcd4551b97","type":"file","file":"Люди/Прокофий Сафронович Шпадырев.md","x":-3880,"y":-1953,"width":400,"height":400},
+		{"id":"4a0a9e5ad2e85ee0","type":"file","file":"Люди/Ефим Сафронович Шпадырев.md","x":-3160,"y":-1953,"width":400,"height":400},
+		{"id":"93f13c881506f490","type":"file","file":"Люди/Игнат Павлович Шпадырев.md","x":-1440,"y":-2960,"width":400,"height":400},
 		{"id":"283835b30ecf15d3","type":"file","file":"Люди/Клим Шпадырев.md","x":-2880,"y":-4800,"width":400,"height":400},
 		{"id":"17f6ed9d5b488749","type":"file","file":"Люди/Игнат Климович Шпадырев.md","x":-3280,"y":-3800,"width":400,"height":400},
 		{"id":"cd9973c8d1ee6e94","type":"file","file":"Люди/Филипп Климович Шпадырев.md","x":-4000,"y":-3800,"width":400,"height":400},
-		{"id":"ac7024d781ce1ccf","type":"file","file":"Люди/Арина Фёдорова.md","x":-2800,"y":-3800,"width":400,"height":400},
-		{"id":"5f23b13180d4f718","type":"file","file":"Люди/Михаил Павлович Шпадырев.md","x":-2400,"y":-2760,"width":400,"height":400},
 		{"id":"6bcf1b0756097828","type":"file","file":"Люди/Павел Кузьмич Шпадырев.md","x":-2000,"y":-3520,"width":400,"height":400},
-		{"id":"3cc6139b031c327b","type":"file","file":"Люди/Кузьма (Казьма) Климович Шпадырев.md","x":-2080,"y":-4200,"width":400,"height":400}
+		{"id":"3cc6139b031c327b","type":"file","file":"Люди/Кузьма (Казьма) Климович Шпадырев.md","x":-2080,"y":-4200,"width":400,"height":400},
+		{"id":"ac7024d781ce1ccf","type":"file","file":"Люди/Арина Фёдорова.md","x":-2680,"y":-3800,"width":400,"height":400},
+		{"id":"5f23b13180d4f718","type":"file","file":"Люди/Михаил Павлович Шпадырев.md","x":-2400,"y":-2880,"width":400,"height":400},
+		{"id":"dcbe4f35a762c0a6","x":-1440,"y":-3520,"width":400,"height":400,"type":"file","file":"Люди/Прасковья Семёнова.md"}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
@@ -106,6 +107,8 @@
 		{"id":"2ec5421a5babb0de","fromNode":"2935a08381120744","fromSide":"bottom","toNode":"d65358dcd4551b97","toSide":"top"},
 		{"id":"a2bd1021e7c13332","fromNode":"2935a08381120744","fromSide":"bottom","toNode":"4a0a9e5ad2e85ee0","toSide":"top"},
 		{"id":"8b3f92e3cfa6ad1a","fromNode":"6bcf1b0756097828","fromSide":"bottom","toNode":"93f13c881506f490","toSide":"top"},
-		{"id":"5037fdc04c2b4762","fromNode":"93f13c881506f490","fromSide":"bottom","toNode":"ff500a7fe4ce9252","toSide":"top"}
+		{"id":"5037fdc04c2b4762","fromNode":"93f13c881506f490","fromSide":"bottom","toNode":"ff500a7fe4ce9252","toSide":"top"},
+		{"id":"3cb90dd3542d300b","fromNode":"dcbe4f35a762c0a6","fromSide":"bottom","toNode":"93f13c881506f490","toSide":"top"},
+		{"id":"dac72acd12ec48dd","fromNode":"dcbe4f35a762c0a6","fromSide":"bottom","toNode":"5f23b13180d4f718","toSide":"top"}
 	]
 }
