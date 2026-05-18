@@ -36,10 +36,20 @@
 		{"id":"ff3cb2004fc66322","type":"file","file":"Люди/Юзеф Григорьевич (Гиршевич) Пальсов.md","x":-298,"y":-2840,"width":400,"height":400},
 		{"id":"f5b33fb9e08ab289","type":"file","file":"Люди/Исаак Григорьевич (Гиршевич) Пальсов.md","x":180,"y":-2840,"width":400,"height":400},
 		{"id":"e303febd0f746f9b","type":"text","text":"","x":219,"y":-2540,"width":250,"height":60},
-		{"id":"ff500a7fe4ce9252","type":"file","file":"Люди/Андрей Игнатьевич Шпадырев.md","x":-1280,"y":-2320,"width":400,"height":400},
 		{"id":"f7367fe078e3fabf","type":"file","file":"Люди/Евдокия Ивановна Шпадырева.md","x":-698,"y":-2320,"width":400,"height":400},
-		{"id":"17f6ed9d5b488749","type":"file","file":"Люди/Игнат Шпадырев.md","x":-1560,"y":-2880,"width":400,"height":400},
-		{"id":"9f052c11a0c9d86c","x":-857,"y":-2840,"width":400,"height":400,"type":"file","file":"Люди/Моисей Пальсов.md"}
+		{"id":"9f052c11a0c9d86c","type":"file","file":"Люди/Моисей Пальсов.md","x":-857,"y":-2840,"width":400,"height":400},
+		{"id":"2935a08381120744","type":"file","file":"Люди/Сафрон Игнатьевич Шпадырев.md","x":-3680,"y":-2640,"width":400,"height":400},
+		{"id":"ff500a7fe4ce9252","type":"file","file":"Люди/Андрей Игнатьевич Шпадырев.md","x":-1440,"y":-2440,"width":400,"height":400},
+		{"id":"d65358dcd4551b97","x":-3880,"y":-1953,"width":400,"height":400,"type":"file","file":"Люди/Прокофий Сафронович Шпадырев.md"},
+		{"id":"4a0a9e5ad2e85ee0","x":-3160,"y":-1953,"width":400,"height":400,"type":"file","file":"Люди/Ефим Сафронович Шпадырев.md"},
+		{"id":"93f13c881506f490","x":-1440,"y":-2960,"width":400,"height":400,"type":"file","file":"Люди/Игнат Павлович Шпадырев.md"},
+		{"id":"283835b30ecf15d3","type":"file","file":"Люди/Клим Шпадырев.md","x":-2880,"y":-4800,"width":400,"height":400},
+		{"id":"17f6ed9d5b488749","type":"file","file":"Люди/Игнат Климович Шпадырев.md","x":-3280,"y":-3800,"width":400,"height":400},
+		{"id":"cd9973c8d1ee6e94","type":"file","file":"Люди/Филипп Климович Шпадырев.md","x":-4000,"y":-3800,"width":400,"height":400},
+		{"id":"ac7024d781ce1ccf","type":"file","file":"Люди/Арина Фёдорова.md","x":-2800,"y":-3800,"width":400,"height":400},
+		{"id":"5f23b13180d4f718","type":"file","file":"Люди/Михаил Павлович Шпадырев.md","x":-2400,"y":-2760,"width":400,"height":400},
+		{"id":"6bcf1b0756097828","type":"file","file":"Люди/Павел Казьмич Шпадырев.md","x":-2000,"y":-3520,"width":400,"height":400},
+		{"id":"3cc6139b031c327b","type":"file","file":"Люди/Казьма Климович Шпадырев.md","x":-2080,"y":-4200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
@@ -81,11 +91,21 @@
 		{"id":"a00d025018506e96","fromNode":"1d66b5eae291e0be","fromSide":"bottom","toNode":"b3f4ce1e9c87f351","toSide":"top"},
 		{"id":"987e288d4675488b","fromNode":"26c1390f4ebb0ae0","fromSide":"bottom","toNode":"b3f4ce1e9c87f351","toSide":"top"},
 		{"id":"18eeacf0d99a44ae","fromNode":"01d7494a4a2557a6","fromSide":"bottom","toNode":"2106936929ebb34d","toSide":"top"},
-		{"id":"9ef4b08980f6bde9","fromNode":"17f6ed9d5b488749","fromSide":"bottom","toNode":"ff500a7fe4ce9252","toSide":"top"},
 		{"id":"c1db3187fc7b648b","fromNode":"f4f8d76483e75448","fromSide":"bottom","toNode":"1de99be57d8fa64f","toSide":"top","label":"Мать"},
 		{"id":"4d2c5b6596fe95ed","fromNode":"f99edc5c0bf61069","fromSide":"bottom","toNode":"a056aa9200d77333","toSide":"top"},
 		{"id":"a4ecfa0993bc614f","fromNode":"a056aa9200d77333","fromSide":"bottom","toNode":"ff3cb2004fc66322","toSide":"top"},
 		{"id":"c876a975fe353c94","fromNode":"a056aa9200d77333","fromSide":"bottom","toNode":"f5b33fb9e08ab289","toSide":"top"},
-		{"id":"1fe5a40726d657ea","fromNode":"a056aa9200d77333","fromSide":"bottom","toNode":"9f052c11a0c9d86c","toSide":"top"}
+		{"id":"1fe5a40726d657ea","fromNode":"a056aa9200d77333","fromSide":"bottom","toNode":"9f052c11a0c9d86c","toSide":"top"},
+		{"id":"e4c85638f6cabf15","fromNode":"283835b30ecf15d3","fromSide":"bottom","toNode":"cd9973c8d1ee6e94","toSide":"top"},
+		{"id":"08839a883707c360","fromNode":"283835b30ecf15d3","fromSide":"bottom","toNode":"17f6ed9d5b488749","toSide":"top"},
+		{"id":"80c096f85d44ccf6","fromNode":"17f6ed9d5b488749","fromSide":"right","toNode":"ac7024d781ce1ccf","toSide":"left","label":"Жена"},
+		{"id":"312a8ad867d2b11e","fromNode":"17f6ed9d5b488749","fromSide":"bottom","toNode":"2935a08381120744","toSide":"top"},
+		{"id":"0be5582e53a690d1","fromNode":"283835b30ecf15d3","fromSide":"bottom","toNode":"3cc6139b031c327b","toSide":"top"},
+		{"id":"46f1a2706e95ff08","fromNode":"3cc6139b031c327b","fromSide":"bottom","toNode":"6bcf1b0756097828","toSide":"top"},
+		{"id":"fd65379eaf4c5d0f","fromNode":"6bcf1b0756097828","fromSide":"bottom","toNode":"5f23b13180d4f718","toSide":"top"},
+		{"id":"2ec5421a5babb0de","fromNode":"2935a08381120744","fromSide":"bottom","toNode":"d65358dcd4551b97","toSide":"top"},
+		{"id":"a2bd1021e7c13332","fromNode":"2935a08381120744","fromSide":"bottom","toNode":"4a0a9e5ad2e85ee0","toSide":"top"},
+		{"id":"8b3f92e3cfa6ad1a","fromNode":"6bcf1b0756097828","fromSide":"bottom","toNode":"93f13c881506f490","toSide":"top"},
+		{"id":"5037fdc04c2b4762","fromNode":"93f13c881506f490","fromSide":"bottom","toNode":"ff500a7fe4ce9252","toSide":"top"}
 	]
 }
