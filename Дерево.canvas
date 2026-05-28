@@ -54,7 +54,8 @@
 		{"id":"01d7494a4a2557a6","type":"file","file":"Люди/Ксения Михайловна Федотова.md","x":2160,"y":-2320,"width":400,"height":400},
 		{"id":"652bb226835b8531","type":"file","file":"Люди/Фёдор Филиппович Шпадырев.md","x":-3160,"y":-5600,"width":400,"height":400},
 		{"id":"cc83437086e1a118","type":"file","file":"Люди/Пётр Фёдорович Шпадырев.md","x":-3600,"y":-4800,"width":400,"height":400},
-		{"id":"546fee5b6f0a0442","x":-3160,"y":-6280,"width":400,"height":400,"type":"file","file":"Люди/Филипп Шпадырев.md"}
+		{"id":"546fee5b6f0a0442","type":"file","file":"Люди/Филипп Фёдорович Шпадырев.md","x":-3160,"y":-6280,"width":400,"height":400},
+		{"id":"27587ccfcaa81019","x":-3160,"y":-6960,"width":400,"height":400,"type":"file","file":"Люди/Фёдор Шпадырев.md"}
 	],
 	"edges":[
 		{"id":"713f4a03a702182a","fromNode":"3a47fad9b1a8d11a","fromSide":"bottom","toNode":"1d66b5eae291e0be","toSide":"top","label":"Мать"},
@@ -117,6 +118,7 @@
 		{"id":"88d3227bcd493540","fromNode":"c0006c0b2ed28a82","fromSide":"bottom","toNode":"ff500a7fe4ce9252","toSide":"top","label":"Мать\n\n"},
 		{"id":"0cc84f9ae90ef2b6","fromNode":"652bb226835b8531","fromSide":"bottom","toNode":"283835b30ecf15d3","toSide":"top"},
 		{"id":"a66dace51b0706f6","fromNode":"652bb226835b8531","fromSide":"bottom","toNode":"cc83437086e1a118","toSide":"top"},
-		{"id":"77e6be17eeb63e5b","fromNode":"546fee5b6f0a0442","fromSide":"bottom","toNode":"652bb226835b8531","toSide":"top"}
+		{"id":"77e6be17eeb63e5b","fromNode":"546fee5b6f0a0442","fromSide":"bottom","toNode":"652bb226835b8531","toSide":"top"},
+		{"id":"4a65475ba9b84465","fromNode":"27587ccfcaa81019","fromSide":"bottom","toNode":"546fee5b6f0a0442","toSide":"top"}
 	]
 }
